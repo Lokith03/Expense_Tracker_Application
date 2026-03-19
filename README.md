@@ -86,7 +86,7 @@ This project demonstrates the implementation of full-stack web development using
 
 <img width="1917" height="1017" alt="Screenshot 2026-03-19 212545" src="https://github.com/user-attachments/assets/4e1c7e4b-a4cc-422b-87da-b547cd33a174" />
 
-## 🔧 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 - Node.js installed
