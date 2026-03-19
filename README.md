@@ -66,4 +66,27 @@ This project demonstrates the implementation of full-stack web development using
 # Output 
 <img width="1919" height="1017" alt="Screenshot 2026-03-19 211819" src="https://github.com/user-attachments/assets/616b716c-5ded-4e9c-9db8-4988d1af27d6" />
 
+<img width="1914" height="1014" alt="Screenshot 2026-03-19 211855" src="https://github.com/user-attachments/assets/59c0a28c-fa8b-449e-85a7-c80516ead4b1" />
+
+<img width="1918" height="1018" alt="Screenshot 2026-03-19 211957" src="https://github.com/user-attachments/assets/1f8c5783-4617-47ab-8206-95c56d739139" />
+
+<img width="1919" height="1019" alt="Screenshot 2026-03-19 212035" src="https://github.com/user-attachments/assets/3900b351-9d53-4c37-86b5-fd258c732503" />
+
+<img width="1919" height="1016" alt="Screenshot 2026-03-19 212124" src="https://github.com/user-attachments/assets/1a14e563-c16c-488d-b44b-4c98e378e0e6" />
+
+<img width="1915" height="1013" alt="Screenshot 2026-03-19 212151" src="https://github.com/user-attachments/assets/664440bc-e3dc-46f3-886b-a6b5422a43b2" />
+
+<img width="1919" height="1013" alt="Screenshot 2026-03-19 212238" src="https://github.com/user-attachments/assets/ac597d4a-0140-495b-82fc-c88b86478559" />
+
+<img width="1919" height="1024" alt="Screenshot 2026-03-19 212250" src="https://github.com/user-attachments/assets/7838d2d0-4991-4d69-b494-86c08f47d8d7" />
+
+<img width="1912" height="1020" alt="Screenshot 2026-03-19 212323" src="https://github.com/user-attachments/assets/99b2a723-116c-4876-91be-52ec6c873843" />
+
+<img width="1915" height="1015" alt="Screenshot 2026-03-19 212447" src="https://github.com/user-attachments/assets/d583135d-1107-4af1-94e7-4f1e6c09f8e4" />
+
+<img width="1917" height="1017" alt="Screenshot 2026-03-19 212545" src="https://github.com/user-attachments/assets/4e1c7e4b-a4cc-422b-87da-b547cd33a174" />
+
+
+
+
 
