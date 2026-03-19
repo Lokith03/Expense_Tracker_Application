@@ -19,6 +19,14 @@ This project demonstrates the implementation of full-stack web development using
 ---
 
 # Technologies Used
+expense-tracker/
+│
+├── frontend/        # React app
+├── backend/         # Node.js API
+├── screenshots/     # Images for README
+└── README.md
+
+# Technologies Used
 
 | Layer | Technology |
 |------|------------|
@@ -85,6 +93,67 @@ This project demonstrates the implementation of full-stack web development using
 <img width="1915" height="1015" alt="Screenshot 2026-03-19 212447" src="https://github.com/user-attachments/assets/d583135d-1107-4af1-94e7-4f1e6c09f8e4" />
 
 <img width="1917" height="1017" alt="Screenshot 2026-03-19 212545" src="https://github.com/user-attachments/assets/4e1c7e4b-a4cc-422b-87da-b547cd33a174" />
+
+## 🔧 How to Run the Project
+
+### Prerequisites
+- Node.js installed
+- MySQL installed
+- git installed
+
+### Step 1: Clone the Repository
+git clone https://github.com/your-username/expense-tracker.git
+cd expense-tracker
+
+### Step 2: Backend Setup
+cd backend
+npm install
+
+Create a `.env` file inside backend folder and add:
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=yourpassword
+DB_NAME=expense_tracker
+PORT=5000
+
+Start backend server:
+npm start
+
+### Step 3: Frontend Setup
+cd frontend
+npm install
+npm start
+
+The application will run at:
+http://localhost:3000
+
+## Database Setup
+
+### Step 1: Create Database
+CREATE DATABASE expense_tracker;
+
+### Step 2: Use Database
+USE expense_tracker;
+
+### Step 3: Create Table
+CREATE TABLE expenses (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  title VARCHAR(255),
+  amount DECIMAL(10,2),
+  category VARCHAR(100),
+  date DATE
+);
+
+## Future Enhancements
+
+- Implement user authentication (Login & Register)
+- Add charts and analytics (Pie chart, Bar graph)
+- Monthly and yearly expense reports
+- Export data to PDF or Excel
+- Add budget tracking feature
+- Improve UI/UX and mobile responsiveness
+- Add notifications/reminders for expenses
+- Deploy application to cloud (AWS / Azure)
 
 
 
