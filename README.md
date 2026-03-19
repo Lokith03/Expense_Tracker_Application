@@ -94,7 +94,7 @@ This project demonstrates the implementation of full-stack web development using
 - git installed
 
 ### Step 1: Clone the Repository
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Lokith03/Expense_Tracker_Application.git
 cd expense-tracker
 
 ### Step 2: Backend Setup
