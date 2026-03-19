@@ -19,14 +19,6 @@ This project demonstrates the implementation of full-stack web development using
 ---
 
 # Technologies Used
-expense-tracker/
-│
-├── frontend/        # React app
-├── backend/         # Node.js API
-├── screenshots/     # Images for README
-└── README.md
-
-# Technologies Used
 
 | Layer | Technology |
 |------|------------|
