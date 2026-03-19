@@ -62,3 +62,8 @@ This project demonstrates the implementation of full-stack web development using
 | DELETE | /expenses/:id | Delete expense |
 
 ---
+
+# Output 
+<img width="1919" height="1017" alt="Screenshot 2026-03-19 211819" src="https://github.com/user-attachments/assets/616b716c-5ded-4e9c-9db8-4988d1af27d6" />
+
+
